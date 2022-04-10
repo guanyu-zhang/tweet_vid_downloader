@@ -12,7 +12,7 @@ Dependecies needed:<br>
 * selenium
 <br>
 <br>
-<font size=4 color=orange>Need to make sure that you have chromedriver downloaded and put it in the same directory as python.exe (if you use unix system, put it in the directory /usr/loacl/bin). Check [here](https://chromedriver.chromium.org/downloads) to download the corresponding version</font>
+<font size=4 color=orange>Need to make sure that you have chromedriver downloaded and put it in the same directory as python.exe (if you use unix system, put it in the directory /usr/loacl/bin). Check <a href="https://chromedriver.chromium.org/downloads">here</a>) to download the corresponding version</font>
 <br>
 <br>
 
